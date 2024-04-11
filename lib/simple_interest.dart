@@ -7,7 +7,7 @@
 // }
 
 void main(
- print(simpleInterest(1000, 2, 112))
+//  print(simpleInterest(1000, 2, 112))
 ) {}
 
 // Named function : parameters are optional

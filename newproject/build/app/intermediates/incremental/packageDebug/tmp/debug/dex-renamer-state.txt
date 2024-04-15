@@ -1,0 +1,4 @@
+#Mon Apr 08 22:43:32 NPT 2024
+base.0=C\:\\Users\\acer\\Desktop\\DartFiles\\newproject\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
